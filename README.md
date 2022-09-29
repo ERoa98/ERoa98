@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Emilio Roa, currently studying electrical engineering in Universidad de Chile. This is my git repository where you can find all the proyects I've worked on.
 - 👀 I’m interested in artificial inteligence and data science.
 
-- 📫 You can reach my at my personal or institutional email: emilio.roa12@gmail.com / emilio.roa@ug.uchile.cl
+- 📫 You can reach me at my personal or institutional email: emilio.roa12@gmail.com / emilio.roa@ug.uchile.cl
 
 
 <!---
